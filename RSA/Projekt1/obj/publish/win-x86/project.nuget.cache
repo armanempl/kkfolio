@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QD7w2/zh9k4HxVTQa5f8bVM7/4NkokJkVAby/pv31PY99sQeF5zURSyb25KrqugymWQqBwUfDwHxfiu4H4IYZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Konrad\\source\\repos\\KiTK29454KK\\Projekt1\\Projekt1\\Projekt1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Konrad\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.23\\microsoft.netcore.app.runtime.win-x86.3.1.23.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.23\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.23.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.23\\microsoft.aspnetcore.app.runtime.win-x86.3.1.23.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.23\\microsoft.netcore.app.host.win-x86.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

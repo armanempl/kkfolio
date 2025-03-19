@@ -1,0 +1,15 @@
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\bin\Debug\net8.0\WalidacjaEmaili.exe
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\bin\Debug\net8.0\WalidacjaEmaili.deps.json
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\bin\Debug\net8.0\WalidacjaEmaili.runtimeconfig.json
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\bin\Debug\net8.0\WalidacjaEmaili.dll
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\bin\Debug\net8.0\WalidacjaEmaili.pdb
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\WalidacjaEmaili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\WalidacjaEmaili.AssemblyInfoInputs.cache
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\WalidacjaEmaili.AssemblyInfo.cs
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\WalidacjaEmaili.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\WalidacjaEmaili.sourcelink.json
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\WalidacjaEmaili.dll
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\refint\WalidacjaEmaili.dll
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\WalidacjaEmaili.pdb
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\WalidacjaEmaili.genruntimeconfig.cache
+C:\Users\Konrad\source\repos\WalidacjaEmaili\WalidacjaEmaili\obj\Debug\net8.0\ref\WalidacjaEmaili.dll
