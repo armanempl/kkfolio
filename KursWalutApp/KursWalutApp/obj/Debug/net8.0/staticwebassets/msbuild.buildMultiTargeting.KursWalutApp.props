@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KursWalutApp.props" />
+</Project>
